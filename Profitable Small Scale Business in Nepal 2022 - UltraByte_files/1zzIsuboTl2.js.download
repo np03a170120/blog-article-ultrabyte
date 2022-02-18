@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js_script(document.currentScript); }
+
+__d("MPNDesktopLoginModal.react",["cx","MPNDesktopWelcomePageBottomButtons.react","MPNPrivacyText.react","react"],(function(a,b,c,d,e,f,g,h){"use strict";var i=d("react");function a(a){var b=a.useITPContinueButton;return i.jsx("div",{className:"_a6w9",children:i.jsxs("div",{className:"_a6s7",children:[i.jsx(c("MPNDesktopWelcomePageBottomButtons.react"),babelHelpers["extends"]({},a)),i.jsx(c("MPNPrivacyText.react"),{useITPContinueButton:b})]})})}a.displayName=a.name+" [from "+f.id+"]";g["default"]=a}),98);
